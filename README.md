@@ -1,0 +1,27 @@
+<p align="center">Como conhecer a Deus</p> 
+<p align="center">É como a luz do sol que, embora não tenha favoritos, não pode refletir-se num espelho <br>
+  coberto de pó com a mesma luminosidade com que se reflete num espelho limpo.</p>
+
+## < Eduardo Gamer /> 🐘 , criador de conteúdo de programação e tecnologia!
+
+<div align="center">
+  <a href="https://github.com/eduardogamer78">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png?width=676&height=676">
+</div>
+  
+##
+ 
+<div> 
+  <a href="https://instagram.com/eduardogamer78" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:WebUnesoft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
