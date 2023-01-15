@@ -28,9 +28,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
   <a href="https://instagram.com/eduardogamer78" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%0e049b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:WebUnesoft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/eduardogamer78/eduardogamer78/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/eduardogamer78/eduardogamer78/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
   
 </div>
